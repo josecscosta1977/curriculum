@@ -1,2 +1,2 @@
-# José Carlos Soares da Costa
-# Currículo
+# José Carlos Soares da Costa - __Currículo__
+
