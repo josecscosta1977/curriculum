@@ -16,4 +16,4 @@ github: https://github.com/josecscosta1977
 - Computação Gráfica 2D/3D (10 anos)
 - Prototipação - Arduíno / Esp32 (1 ano)
 - Sistemas Linux e Windows
-
+- Sistemas de controle de versão (git)
