@@ -8,7 +8,7 @@ Eu sou Carlos, técnico e tecnólogo em Análise e desenvolvimento de Sistemas. 
 Portfólio: https://tourmaline-sprite-1aba02.netlify.app  
 github: https://github.com/josecscosta1977
 
-##Conhecimentos
+## Conhecimentos
 
 - PHP (3 anos)
 - Javascript (2 anos)
