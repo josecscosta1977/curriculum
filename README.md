@@ -17,6 +17,10 @@ github: https://github.com/josecscosta1977
 - Prototipação - Arduíno / Esp32 (1 ano)
 - Sistemas Linux e Windows
 - Sistemas de controle de versão (git)
+- Desenvolvimento Ágil
+- Segurança e Desempenho
+- Inglês (suficiente para ler e entender)
+- Francês (suficiente para ler e entender)
 
 ## Formação
 
