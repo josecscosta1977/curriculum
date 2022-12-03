@@ -35,6 +35,10 @@ O projeto do site CãoQri nasceu no quarto período da graduação. O contato co
 O projeto de Automação Comercial(software) foi desenvolvido para o Programa de Extensão Tecnológica(Facepe 2021). Tendo como cliente a empresa CãoQri, o software será usado para os clientes da loja preencherem um formulário e retirarem um brinde em uma caixa conectada ao sistema e que abrirá quando as informaç
 ões forem submetidas ao banco de dados. 
 
+#### CãoQri - Automação Comercial - Hardware  https://github.com/josecscosta1977/php-caoqri.git
+
+O protótipo para Automação Comercial (hardware) foi desenvolvido com a plataforma de prototipação Arduino. O projeto tem a finalidade de abrir a fechadura para que o cliente possa retirar brindes de uma caixa, e em seguida, fechá-la.
+
 ## Formação
 
 - Técnico em Desenvolvimento de Sistemas
