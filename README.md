@@ -30,7 +30,7 @@ Lattes: http://lattes.cnpq.br/5911831113563685
 
 O projeto do site CãoQri nasceu no quarto período da graduação. O contato com a empresa aconteceu durante um Programa de Extensão Tecnológica, o qual a empresa CãoQri participava como cliente.  
 
-#### CãoQri - Automação Comercial - Software 
+#### CãoQri - Automação Comercial - Software https://github.com/josecscosta1977/php-caoqri.git
 
 O projeto de Automação Comercial(software) foi desenvolvido para o Programa de Extensão Tecnológica(Facepe 2021). Tendo como cliente a empresa CãoQri, o software será usado para os clientes da loja preencherem um formulário e retirarem um brinde em uma caixa conectada ao sistema e que abrirá quando as informaç
 ões forem submetidas ao banco de dados. 
