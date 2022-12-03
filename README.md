@@ -26,7 +26,7 @@ Lattes: http://lattes.cnpq.br/5911831113563685
 
 ## Projetos  
 
-CãoQri - Site da empresa  
+### CãoQri - Site da empresa  
 
 O projeto do site CãoQri nasceu no quarto período da graduação. O contato com a empresa aconteceu durante um Programa de Extesão Tecnológica, o qual a empresa CãoQri participava como cliente.  
 
