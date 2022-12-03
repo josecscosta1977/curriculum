@@ -28,7 +28,7 @@ Lattes: http://lattes.cnpq.br/5911831113563685
 
 #### CãoQri - Site da empresa https://github.com/josecscosta1977/projeto_caoqri_laravel
 
-O projeto do site CãoQri nasceu no quarto período da graduação. O contato com a empresa aconteceu durante um Programa de Extesão Tecnológica, o qual a empresa CãoQri participava como cliente.  
+O projeto do site CãoQri nasceu no quarto período da graduação. O contato com a empresa aconteceu durante um Programa de Extensão Tecnológica, o qual a empresa CãoQri participava como cliente.  
 
 ## Formação
 
