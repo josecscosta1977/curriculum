@@ -7,6 +7,8 @@ Eu sou Carlos, técnico e tecnólogo em Análise e desenvolvimento de Sistemas. 
 
 Portfólio: https://tourmaline-sprite-1aba02.netlify.app  
 github: https://github.com/josecscosta1977
+LinkedIn: https://www.linkedin.com/in/jos%C3%A9-carlos-669252149/
+Lattes: http://lattes.cnpq.br/5911831113563685
 
 ## Conhecimentos
 
@@ -25,4 +27,4 @@ github: https://github.com/josecscosta1977
 ## Formação
 
 - Técnico em Desenvolvimento de Sistemas
-- Graduado em Análise e desenvolvimento de Sistemas
+- Graduado em Análise e Desenvolvimento de Sistemas
